@@ -1,2 +1,1 @@
-workspace.Baseplate.Color = Color3.new(31, 128, 29)
--- :3
+Instance.new("Hint", workspace).Text = "69206d20627220652061746820696e67"
